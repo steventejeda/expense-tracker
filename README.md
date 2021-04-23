@@ -1,10 +1,10 @@
 # React-Expense-Tracker 
 
-##Keep track of income and expenses. Add and remove items and save to local storage
+#Keep track of income and expenses. Add and remove items and save to local storage
 
 
 #Technologies: 
-## HTML / CSS / JAVASCRIPT / REACT (HOOKS & CONTEXT API)
+ HTML / CSS / JAVASCRIPT / REACT (HOOKS & CONTEXT API)
 
 Live Demo: https://wonderful-beaver-8ebd66.netlify.app/
 
